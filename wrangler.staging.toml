@@ -1,0 +1,8 @@
+name = "backend-staging"
+main = "src/index.ts"
+compatibility_date = "2025-01-26"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+NEO4J_URI = "bolt+s://staging-instance:7687"
+NODE_ENV = "staging"
