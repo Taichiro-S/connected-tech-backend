@@ -4,5 +4,4 @@ compatibility_date = "2025-01-26"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
-NEO4J_URI = "bolt+s://production-instance:7687"
 NODE_ENV = "production"
